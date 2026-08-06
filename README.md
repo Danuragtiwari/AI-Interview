@@ -1,4 +1,3 @@
-# Vercel link 
 
 ## Overview
 
@@ -35,10 +34,7 @@ This project is a sophisticated job interview application designed to streamline
 ### Steps
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/gemini-job-interview.git
-   cd gemini-job-interview
-   ```
+
 
 2. **Install Dependencies**
    ```bash
