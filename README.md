@@ -1,5 +1,3 @@
-# ace-interview
-
 # Vercel link 
 
 ## Overview
