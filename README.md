@@ -2,7 +2,6 @@
 
 # Vercel link 
 
-Live link : [ace-interview.vercel.app](ace-interview.vercel.app)
 ## Overview
 
 This project is a sophisticated job interview application designed to streamline the interview process using modern web technologies and AI. It generates role-specific interview questions, records candidate responses, and provides AI-driven feedback. The application leverages Gemini AI for analysis and feedback, ensuring candidates receive constructive evaluations based on their performance.
