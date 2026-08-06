@@ -79,25 +79,5 @@ This project is a sophisticated job interview application designed to streamline
 4. **Answer Questions**: Users answer questions via microphone.
 5. **Receive Feedback**: Gemini AI analyzes responses and provides feedback.
 
-## Project Structure
-
-![image](https://github.com/vikashchand/Ace-Interview/assets/72156896/7e7bb4c6-5147-456a-9313-edf83f17d906)
 
 
-![image](https://github.com/vikashchand/Ace-Interview/assets/72156896/3ddb42f7-a835-45ce-9ef8-fe3152df3687)
-
-![image](https://github.com/vikashchand/Ace-Interview/assets/72156896/a27e8441-9ddd-40af-b1cf-ec76ac6c9da3)
-
-![image](https://github.com/vikashchand/Ace-Interview/assets/72156896/0ec8520c-f793-404e-9936-e9104f3cd763)
-
-![image](https://github.com/vikashchand/Ace-Interview/assets/72156896/3a430e8a-8cbb-4753-97bf-c58218bfc16f)
-
-![image](https://github.com/vikashchand/Ace-Interview/assets/72156896/6137b0c8-b58f-4937-b670-4a6a26b968f8)
-
-
-
-
-
-
-
-# AI-Interview
